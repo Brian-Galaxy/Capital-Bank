@@ -10,6 +10,7 @@ namespace Capital_Bank
         public ГлавнаяФорма()
         {
             InitializeComponent();
+            AutoUpdater.Start("https://pastebin.com/raw/WRR00DxV.xml");
             verLbl.Text = "v." + Application.ProductVersion;
             MessageBox.Show("ВСЕ НЕ ЦЕЛЫЕ ЗНАЧЕНИЯ ПИШУТСЯ С ЗАПЯТОЙ(,)");
         }
