@@ -1,0 +1,11 @@
+D:\OneDrive\Документы\CAPITAL\Bank\Capital Bank\Capital Bank\bin\Debug\Capital Bank.exe.config
+D:\OneDrive\Документы\CAPITAL\Bank\Capital Bank\Capital Bank\bin\Debug\Capital Bank.exe
+D:\OneDrive\Документы\CAPITAL\Bank\Capital Bank\Capital Bank\bin\Debug\Capital Bank.pdb
+D:\OneDrive\Документы\CAPITAL\Bank\Capital Bank\Capital Bank\obj\Debug\Capital Bank.csproj.AssemblyReference.cache
+D:\OneDrive\Документы\CAPITAL\Bank\Capital Bank\Capital Bank\obj\Debug\Capital Bank.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\Документы\CAPITAL\Bank\Capital Bank\Capital Bank\obj\Debug\Capital_Bank.Properties.Resources.resources
+D:\OneDrive\Документы\CAPITAL\Bank\Capital Bank\Capital Bank\obj\Debug\Capital Bank.csproj.GenerateResource.cache
+D:\OneDrive\Документы\CAPITAL\Bank\Capital Bank\Capital Bank\obj\Debug\Capital Bank.csproj.CoreCompileInputs.cache
+D:\OneDrive\Документы\CAPITAL\Bank\Capital Bank\Capital Bank\obj\Debug\Capital Bank.exe
+D:\OneDrive\Документы\CAPITAL\Bank\Capital Bank\Capital Bank\obj\Debug\Capital Bank.pdb
+D:\OneDrive\Документы\CAPITAL\Bank\Capital Bank\Capital Bank\obj\Debug\Capital_Bank.ГлавнаяФорма.resources
